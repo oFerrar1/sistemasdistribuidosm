@@ -1,3 +1,4 @@
 init - inicializa um repositório
 status - exibe status de working e stage
 git add - adiciona um arquivo no stage
+commit - fotografa os arquivos para o histórico
